@@ -1,3 +1,2 @@
 # Online-Election-Voting-System
-An Online  Voting Website.  
-h
+## Digital Way of Voting##
