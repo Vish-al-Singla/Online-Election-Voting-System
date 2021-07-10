@@ -47,7 +47,15 @@ The Project was Developed using ***PHP/Mysqli***, ***MySQL Daatabase***, ***HTML
    6. Browse the ***" Online-Election-Voting-System "*** in a browser . i.e. **http://localhost/Online-Election-Voting-System**.
   
   
-
+  
+  
+  
+### We Get to Learn many great Things while building this Project.
+   - Taking Responsibilites.
+   - Handling Team Members
+   - Working as a Unite
+   - Solving different Issues and Hurdles in the Way.
+   - Usablity of  git, VS code, Meetings Apps, and many other Resources. 
 
 
 
