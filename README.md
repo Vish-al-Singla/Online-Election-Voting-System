@@ -28,5 +28,12 @@ The Project was Developed using ***PHP/Mysqli***, ***MySQL Daatabase***, ***HTML
    - Generate Election Report
    - View User/System List
 
+### Voters
+   - Register to the System
+   - Vote
+
+
+
+
 
 
