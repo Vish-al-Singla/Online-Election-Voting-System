@@ -32,6 +32,21 @@ The Project was Developed using ***PHP/Mysqli***, ***MySQL Daatabase***, ***HTML
    - Register to the System
    - Vote
 
+# How to Run
+
+### Requirements
+   - ***Download*** and ***Install*** any Local Web Server such as ***XAMPP/WAMP***.
+
+
+### Installation/Setup
+   1. Open your ***XAMPP/WAMP's*** Control Panel and start the "Apache" and "MySQL".
+   2. If you are using XAMPP, copy the Folder and paste it into "htdocs" directory.
+   3. Browse the ***PHPMyAdmin*** in a browser. i.e. **http://localhost/phpmyaddmin**
+   4. Create a ***new database*** naming ***"vote"***.
+   5. Import the ***SQL*** file.
+   6. Browse the ***" Online-Election-Voting-System "*** in a browser . i.e. **http://localhost/Online-Election-Voting-System**.
+  
+  
 
 
 
