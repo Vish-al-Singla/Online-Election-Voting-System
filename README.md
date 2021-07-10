@@ -13,6 +13,20 @@ The Project was Developed using ***PHP/Mysqli***, ***MySQL Daatabase***, ***HTML
 
 ### Admin Side  
    - Login/Logout
+   - Manage Candidate 
+   - Activate/Deactivate Voters
+   - Manage Voters
+   - Generate Election Report
+   - Manage User/ System List
+   - View User Time Logs
+
+### System Side
+   - Login/Logout
+   - Manage Candidate
+   - View Voters List 
+   - Manage Voters 
+   - Generate Election Report
+   - View User/System List
 
 
 
