@@ -9,9 +9,9 @@ The system hass 3 types of users which are the Admin, System Users and Voters. T
 The Project was Developed using ***PHP/Mysqli***, ***MySQL Daatabase***, ***HTML***, ***CSS***, ***Jaavascript***, (jQuery and AJAX )  and ***Bootstrap*** for the design.  
 
 
-##Features  
+## Features  
 
-###Admin Side  
+### Admin Side  
 
 
 
